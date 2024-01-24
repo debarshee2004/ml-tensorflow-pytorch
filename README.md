@@ -1,3 +1,5 @@
+![tensorflow](https://github.com/debarshee2004/tensorflow_course/assets/129538241/ce67a9d4-2aae-4ae7-a3d8-800a28f73669)
+
 # What is TENSORFLOW?
 
 TensorFlow is an open-source machine learning library developed by the Google Brain team. It is designed to facilitate the development and deployment of machine learning models, particularly deep learning models. TensorFlow provides a comprehensive set of tools and community resources that make it widely used in both research and industry for a variety of machine learning applications.
